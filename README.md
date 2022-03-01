@@ -1,2 +1,2 @@
 # prak_02
-**** Nastya Bespalova bpm201
+Nastya Bespalova bpm201
